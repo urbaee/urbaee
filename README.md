@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Github banner" width="100%">
 
 # 💫 About Me:
-Yo! I'm Rahmat 👨‍💻<br><br>A passionate Informatics Engineering student with a curious mind and a thing for all things AI, Machine Learning, Multimedia, and UI/UX Design.  <br>I'm on a journey to blend smart systems with beautiful interfaces — because great tech should look good *and* think smart 🤖✨<br><br>Currently exploring how machines learn, how humans interact with them, and how to make that experience as smooth (and fun) as possible.
+Yo! I'm Rahmat 👨‍💻<br><br>A passionate Informatics Engineering student with a curious mind and a thing for all things **AI**, **Machine Learning**, **Multimedia**, and **UI/UX Design**.  <br>I'm on a journey to blend smart systems with beautiful interfaces — because great tech should look good *and* think smart 🤖✨<br><br>Currently exploring how machines learn, how humans interact with them, and how to make that experience as smooth (and fun) as possible.
 
 
 ## 🌐 Socials:
